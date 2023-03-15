@@ -1,0 +1,19 @@
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\bin\Debug\Paint bruh.exe.config
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\bin\Debug\Paint bruh.exe
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\bin\Debug\Paint bruh.pdb
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\bin\Debug\PaintBruhLibrary.dll
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\bin\Debug\PaintBruhLibrary.pdb
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.csproj.AssemblyReference.cache
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.csproj.SuggestedBindingRedirects.cache
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.FormEllipse.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.FormRecangle.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.FormScene.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.FormStraightLine.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.FormTriangle.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.LineSelectionForm.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint_bruh.Properties.Resources.resources
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.csproj.GenerateResource.cache
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.csproj.CoreCompileInputs.cache
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.csproj.CopyComplete
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.exe
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\Paint bruh\obj\Debug\Paint bruh.pdb

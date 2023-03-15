@@ -1,0 +1,6 @@
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\PaintBruhLibrary\bin\Debug\PaintBruhLibrary.dll
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\PaintBruhLibrary\bin\Debug\PaintBruhLibrary.pdb
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\PaintBruhLibrary\obj\Debug\PaintBruhLibrary.csproj.AssemblyReference.cache
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\PaintBruhLibrary\obj\Debug\PaintBruhLibrary.csproj.CoreCompileInputs.cache
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\PaintBruhLibrary\obj\Debug\PaintBruhLibrary.dll
+C:\Users\P1l3T0\Desktop\Paint 2 vektorna grafika edition finalna versiq)zip\PaintBruhLibrary\obj\Debug\PaintBruhLibrary.pdb
