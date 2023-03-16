@@ -2,7 +2,7 @@
 
 ## Overview
 This application was created as part of an Object-Orientated Programming university course project using C#. <br>
-The application provides functions for drawing and working with 2D shapes, saving information to and opening from files <br>
+The application provides functions for drawing and working with 2D shapes using vector graphics <br>
 
 ## Features
 Users can create a variety of shapes, all with different colors for their inside or outside.
