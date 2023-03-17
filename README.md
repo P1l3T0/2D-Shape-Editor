@@ -1,4 +1,4 @@
-# 2D shape editor
+# Shape editor
 
 ## Overview
 This application was created as part of an Object-Orientated Programming university course project using C#. <br>
